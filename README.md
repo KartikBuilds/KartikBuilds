@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-<h3 align="center">Hi 👋, I'm Kartik Shinde | Web2 • DevOps • Web3 | Future Core Blockchain Developer</h3>
+<h3 align="center">Hi, I'm Kartik Shinde | Web2 • DevOps • Web3 | Future Core Blockchain Developer</h3>
 
 
 <!-- Banner / GIF -->
