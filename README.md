@@ -1,9 +1,10 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/KartikBuilds">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F7008A&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Kartik+(Krish)+Shinde;Web2+🚀+DevOps+⚙️+Web3+🌐;Future+Core+Blockchain+Developer+🔥;Always+Learning+📚;Let's+Build+Together+💡">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Kartik+(Krish)+Shinde;Web2+|+DevOps+|+Web3;Future+Core+Blockchain+Developer;">
   </a>
 </p>
+
 
 <!-- Banner / GIF -->
 <p align="center">
