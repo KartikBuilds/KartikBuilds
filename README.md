@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/KartikBuilds">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Kartik+(Krish)+Shinde;Web2+|+DevOps+|+Web3;Future+Core+Blockchain+Developer;">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kartik+(Krish)+Shinde;Web2+|+DevOps+|+Web3;Future+Core+Blockchain+Developer;Always+Learning+📚">
   </a>
 </p>
 
