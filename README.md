@@ -13,7 +13,7 @@
 - 🎓 2nd-year **Computer Science Student** (Graduating in 2027)  
 - 💻 Exploring **Fullstack Web Development** as Web2 foundation  
 - ⚡ Diving into **Rust, Solidity & Blockchain Protocols**  
-- 🎯 Goal → **GSoC + Open Source + Blockchain Internship (2025)**  
+- 🎯 Goal → **GSoC + Open Source + Blockchain Internship (2026)**  
 - 🌱 Always curious, always building  
 
 ---
