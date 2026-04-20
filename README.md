@@ -28,8 +28,6 @@
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
 
 ### 🗄 Database & Persistence  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -44,14 +42,6 @@
 ### 🔗 Emerging Focus  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge)  
-![Web3](https://img.shields.io/badge/Web3-121D33?style=for-the-badge)  
-
----
-
-# 🎓 Education  
-**B.Sc. Computer Science**  
-Mulund College of Commerce, Mumbai  
-Graduating: 2027  
 
 ---
 
