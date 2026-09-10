@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik Shinde</h1>
+<h1 align="center">Hi , I'm Kartik Shinde</h1>
 
 <h3 align="center">Software Engineer | Computer Science Undergraduate</h3>
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Kartik Shinde**, a Computer Science undergraduate from Navi Mumbai, India.
 
@@ -22,7 +22,7 @@ I believe in learning beyond syntax:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -58,7 +58,7 @@ I believe in learning beyond syntax:
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
