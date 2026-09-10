@@ -68,7 +68,6 @@ I believe in learning beyond syntax:
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:itskartikdev3@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
